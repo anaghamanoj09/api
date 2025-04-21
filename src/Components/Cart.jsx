@@ -2,7 +2,7 @@ import React from 'react'
 
 function Cart() {
   return (
-    <div>Cart</div>
+    <div style={{height:"400px"}}>Cart</div>
   )
 }
 
